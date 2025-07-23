@@ -36,10 +36,6 @@ A professional-grade job import system with Redis queue processing, MongoDB stor
 
 ## Installation 🛠️
 
-### Docker Setup (Recommended)
-
-## Installation 🛠️
-
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Aftab1311/Job_Import_System.git
